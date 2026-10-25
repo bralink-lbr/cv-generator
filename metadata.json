@@ -1,0 +1,7 @@
+{
+  "name": "CV Generator Pro (ATS & Creative Dual Export)",
+  "description": "Generator CV profesional dwibahasa (ID & EN) dengan output otomatis 2 file PDF sekaligus: Tipe ATS terstandarisasi dan Tipe Creative (Pastel Palette, Creative 1 & 2).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
